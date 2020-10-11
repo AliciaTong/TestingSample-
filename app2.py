@@ -1,2 +1,2 @@
 print("Hello World")
-print("very sexy bunny tail")
+print("very sexy bunny tail*")
